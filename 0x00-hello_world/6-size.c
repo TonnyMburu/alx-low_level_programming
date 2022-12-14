@@ -1,10 +1,9 @@
-=include <studio.h>
-
+#include <studio.h>
 /**
- * main - prints the size of various types
- * Return: 0 if exited properly, non-zero otherwise
+ * main - prints the sizes of dada types in c
+ * code by tonny
+ * Return: 0
  */
-
 int main(void)
 {
 	printf("size of a char: %d byte(s)\n", sizeof(char));
